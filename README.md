@@ -2,7 +2,7 @@
 
 Este projeto foi inicializado com create react app, para praticar a criação de componentes no react.
 
-[![NPM](https://img.shields.io/bower/l/MI)]()
+[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/Quest-react-base/blob/main/license)
 
 ## Índice
 
